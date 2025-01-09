@@ -1,4 +1,4 @@
-# Ecommerce_Powerbi_projectAn
+# Ecommerce-Powerbi-project
 An E-commerce Power BI Project involves creating a business intelligence dashboard or report that provides insights into the operations, performance, and customer behavior of an e-commerce platform. Here's a detailed description:
 
 Project Overview
